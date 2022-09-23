@@ -5,9 +5,13 @@ This project s about a text encryptor/decryptor, single webpage.
 ## Encryption keys
 
 Letter "e" turns into "enter"
+
 Letter "i" turns into "imes"
+
 Letter "a" turns into "ai"
+
 Letter "o" turns into "ober"
+
 Letter "u" turns into "ufat"
 
 ## Description
@@ -18,8 +22,11 @@ When clicking the Encrypt button, the encryption process starts up, and when Dec
 ## Files
 
 **index.html** (HTML)
+
 **style.css** (CSS3 Stylesheet)
+
 **reset.css** (Custom Stylesheet)
+
 **script.js** (JavaScript file)
 
 ## Observations
