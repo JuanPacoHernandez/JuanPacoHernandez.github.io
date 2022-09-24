@@ -4,5 +4,5 @@
 
 **Encryptor** - Text Encryptor/Decryptor
 
-**Barber** - Hairstyling & Barbering Shop Website
+**Hang-Man** - Classic Hang-Man game
 
